@@ -1,0 +1,18 @@
+{
+  "orgName": "FscDemo",
+  "edition": "Enterprise",
+  "language": "en_US",
+  "features": ["PersonAccounts","ContactsToMultipleAccounts","FinancialServicesUser:5", "MarketingUser"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "securitySettings": {
+      "passwordPolicies": {
+      }
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
